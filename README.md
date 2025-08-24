@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<video src='https://i.imgur.com/eyWmJEr.mp4' controls width='100%' title='Video Walkthrough'></video>
+👉🏿<img src='https://imgur.com/eyWmJEr' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
